@@ -1,5 +1,5 @@
-﻿{
-  "userSecretsId": "aspnet-MVCCoreBlog-87b42ce3-1f84-4f7d-bc0c-b4fdcf672780",
+{
+  "userSecretsId": "aspnet-MVCCoreBlog-a7ea0f5d-88ee-4514-b1a6-c9c7165bde9f",
 
   "dependencies": {
     "Microsoft.NETCore.App": {
@@ -43,7 +43,8 @@
     "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": {
       "version": "1.0.0-preview2-final",
       "type": "build"
-    }
+    },
+    "jQuery": "3.1.1"
   },
 
   "tools": {
